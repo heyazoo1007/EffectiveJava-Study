@@ -1,4 +1,4 @@
-package Chapter02.Item13;
+package Chapter03.Item13;
 
 
 public class HashTable2 implements Cloneable {

@@ -1,4 +1,4 @@
-package Chapter02.Item18;
+package Chapter04.Item18;
 
 // Item18 : 상속보다는 컴포지션을 사용하라
 // 상속은 캡슐화를 위반하기 때문에 명확한 경우가 아니면 사용하지 말아야 한다.

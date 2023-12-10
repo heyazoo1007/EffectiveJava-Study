@@ -1,4 +1,4 @@
-package Chapter02.Item14;
+package Chapter03.Item14;
 
 // Comparable 의 compareTo()에 대해서
 // 1. compareTo는 동치성 비교와 순서를 비교하는 용도이다.

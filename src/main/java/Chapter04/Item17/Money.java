@@ -1,4 +1,4 @@
-package Chapter02.Item17;
+package Chapter04.Item17;
 
 // Item17 : 변경 가능성을 최소화하라
 // 클래스가 꼭 필요한 경우가 아니라면 불변으로 만들자

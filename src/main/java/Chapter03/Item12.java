@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter03;
 
 public class Item12 {
 

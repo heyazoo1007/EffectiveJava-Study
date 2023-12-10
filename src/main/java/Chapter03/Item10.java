@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter03;
 
 // equals()를 재정의하려거든 hashCode 도 재정의하라
 public class Item10 {
