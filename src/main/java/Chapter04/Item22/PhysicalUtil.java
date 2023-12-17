@@ -1,7 +1,7 @@
 package Chapter04.Item22;
 
 // 공개적인 상수가 필요한 경우에 유틸리티 클래스를 사용하는 것도 방법이다
-// 여기에 private 생성자로 인스턴스화를 방지해야 한다 
+// 여기에 private 생성자로 인스턴스화를 방지해야 한다
 public class PhysicalUtil {
     private PhysicalUtil() {} // 인스턴스화 방지
 
