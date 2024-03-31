@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.stream.Stream;
 
 // 아이템46 : 스트림에서는 부작용 없는 함수를 사용하라
-public class StreamExample {
+public class StreamBadExample {
 
     // BAD CASE -> freq 를 직접 수정하기 때문에 스트림 API 의 이점이 없고, 가독성과 유지보수에 좋지 않다.
     public static void main(String[] args) {
