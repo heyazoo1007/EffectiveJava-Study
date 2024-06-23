@@ -1,5 +1,7 @@
 package chapter10.Item75;
 
+
+// 아이템75 : 예외의 상세 메시지에 실패 관련 정보를 담으라
 public class IndexOutOfBoundsException extends RuntimeException {
     private int lowerBound;
     private int upperBound;
