@@ -1,4 +1,4 @@
-package chapter10.Item84;
+package chapter11.Item84;
 
 // 아이템84 : 프로그램의 동작을 스레드 스케줄러에 기대지 말라
 
